@@ -1,0 +1,7 @@
+PROGRAMMING    	 11	 2,15	  DownLeft
+JAVA           	  4	 8, 4	     Right
+WORDS          	  5	10, 5	  DownLeft
+LINES          	  5	 9, 9	  DownLeft
+CIVIL          	  5	 3,10	  DownLeft
+TEST           	  4	 4, 6	        Up
+STACK          	  5	10,15	  DownLeft

@@ -1,0 +1,7 @@
+Question 1: answered correctly --> Prototype
+	motives: clone() method
+Question 2: answered correctly --> Abstract Factory
+	motives: family of products with a high level of abstraction
+Question 3: answered correctly --> Builder
+	intent displayed: Separate the construction of a complex object from its representation so that the same process can create different representations.
+	motives: one constructer for a complex class

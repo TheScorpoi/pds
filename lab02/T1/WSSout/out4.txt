@@ -1,0 +1,17 @@
+ABOVE: UPLEFT, 5, (9,5)
+ACCEPT: DOWNLEFT, 6, (8,1)
+ACCORDING: LEFT, 9, (9,10)
+ACCOUNT: DOWN, 7, (2,2)
+ACROSS: DOWNRIGHT, 6, (1,3)
+ACT: UP, 3, (4,4)
+
+****E**A**
+*A*T*VC***
+AC*C*CO***
+*C*AE**B**
+*ORP****A*
+*UTO******
+*N**S*****
+*T***S****
+**********
+GNIDROCCA*

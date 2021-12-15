@@ -1,0 +1,6 @@
+-->A biblioteca Calendar tem diversas formas de ser aplicada, tendo também um elevado grau de adaptabilidade. Sendo assim, esta necessitaria de um elevado nível de abstração, sendo que o Calendar tem diversas formas de ser inicializado, podendo até ter diversos formatos. 
+
+-->Para obter esse nível de abstração necessário, a biblioteca implementa o padrão de design factory method e, com este, aparecem os métodos getInstance(), que neste caso vai ser o "agente" que vai "ordenar" a criação Calendar, e createCalendar(), que vai ser o criador. Com estes, é possível ter uma aplicação de uma classe com um elevado nível de abstração, que não necessita da especificação da classe de um objeto que queremos criar. 
+
+-->O método getInstance pode ser chamado com 0, 1 ou 2 argumentos, podendo esses argumentos ser uma TimeZone e/ou um Locale. Dentro destes, e consoante o getInstance utilizado, a função que aceita estes dois parâmetros, createCalendar, irá ser chamada. No caso de um dos argumentos "faltar" (ou os dois), utiliza-se um default value para o(s) mesmo(s) que havia(m) sido inicializado(s) anteriormente.
+

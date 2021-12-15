@@ -1,0 +1,6 @@
+CALOR          	  5	 6, 9	    UpLeft
+VERAO          	  5	 1, 7	     Right
+FRIO           	  4	 9,11	     Right
+INVERNO        	  7	14, 5	        Up
+SOL            	  3	 9, 8	     Right
+NEVE           	  4	 2,13	      Down

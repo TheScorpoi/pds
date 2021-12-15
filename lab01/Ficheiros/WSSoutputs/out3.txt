@@ -1,0 +1,7 @@
+JOAO           	  4	12, 3	   UpRight
+TIAGO          	  5	 1, 9	      Down
+RAFAEL         	  6	 6, 5	        Up
+CASEMIRO       	  8	10,11	        Up
+OLIVER         	  6	12, 6	     Right
+SEBASTIAO      	  9	15, 1	   UpRight
+CHUVA          	  5	 4, 2	      Down

@@ -1,0 +1,21 @@
+BABYLON: LEFT, 7, (8,5)
+BABY: UPLEFT, 4, (8,5)
+BABBLE: RIGHT, 6, (3,10)
+FOOT: DOWN, 4, (3,3)
+LADY: DOWNLEFT, 4, (4,1)
+GARGULA: RIGHT, 7, (2,9)
+SHADY: RIGHT, 5, (4,6)
+CRAZY: RIGHT, 5, (1,2)
+BATTER: UP, 6, (9,6)
+BAT: DOWNLEFT, 3, (9,6)
+
+***L****R*
+CRAZY***E*
+*DF**B**T*
+Y*O***A*T*
+*NOLYBABA*
+**TSHADYB*
+*******A**
+******T***
+*GARGULA**
+**BABBLE**

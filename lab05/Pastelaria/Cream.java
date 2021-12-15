@@ -1,0 +1,4 @@
+public enum Cream {
+    OVOSMOLES, CARAMEL, CHOCOLATE, STRAWBERRY;
+
+}

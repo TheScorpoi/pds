@@ -1,0 +1,3 @@
+CLASSE: java.util.AbstractList -> O padrao Template Method esta presente nos metodos add e remove.
+CLASSE: java.nio.InputStream -> O padrao Template Method esta presente no método public int write, que e chamado pelo metodo public int read, que é implementado pela posteriormente pela classe Inputstream.
+CLASSE: java.nio.OutputStream -> O padrao Template Method esta presente no metodo public abstract void write, que e chamado pelo metodo public void write, sendo que e implementado pela classe OutputStream.

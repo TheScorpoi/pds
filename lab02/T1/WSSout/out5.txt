@@ -1,0 +1,20 @@
+PROGRAMMING: UP, 11, (6,12)
+JAVA: DOWN, 4, (1,9)
+WORDS: UPLEFT, 5, (11,11)
+LINES: LEFT, 5, (5,5)
+CIVIL: DOWN, 5, (11,6)
+TEST: RIGHT, 4, (8,2)
+STACK: RIGHT, 5, (1,1)
+
+STACK*******
+*****G*TEST*
+*****N******
+*****I******
+SENILM******
+*****M****C*
+*****AS***I*
+*****R*D**V*
+J****G**R*I*
+A****O***OL*
+V****R****W*
+A****P******

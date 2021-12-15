@@ -1,0 +1,77 @@
+
+    //        Random r = new Random();
+//        boolean found;
+//        int count, dirCount;
+//        int tries;
+//        direction dir=direction.UP;
+//        for (String word : words) {
+//            found = false;
+//            tries = 0;
+//            for (int y = 0; y < size; y++)
+//                for (int x = 0; x < size; x++)
+//                    if (soup[y][x].equals("*")) {
+//                        count = 0;
+//                        dirCount = 0;
+//                        while (!found && dirCount != 8) {
+//                            switch (dirCount) {
+//                                case (0): {
+//                                    dir = direction.UP;
+//                                    break;
+//                                }
+//                                case (1): {
+//                                    dir = direction.DOWN;
+//                                    break;
+//                                }
+//                                case (2): {
+//                                    dir = direction.LEFT;
+//                                    break;
+//                                }
+//                                case (3): {
+//                                    dir = direction.RIGHT;
+//                                    break;
+//                                }
+//                                case (4): {
+//                                    dir = direction.UPLEFT;
+//                                    break;
+//                                }
+//                                case (5): {
+//                                    dir = direction.UPRIGHT;
+//                                    break;
+//                                }
+//                                case (6): {
+//                                    dir = direction.DOWNLEFT;
+//                                    break;
+//                                }
+//                                case (7): {
+//                                    dir = direction.DOWNRIGHT;
+//                                    break;
+//                                }
+//                            }
+//                            dirCount++;
+//                            for (int a = 0; a < word.length(); a++) {
+//                                try {
+//                                    if (soup[y + dir.getY() * a][x + dir.getX() * a].equals("*")) {
+//                                        count++;
+//                                    }
+//                                }catch(IndexOutOfBoundsException e){
+//                                    count=0;
+//                                    break;
+//
+//                                }
+//                            }
+//                            if (count == word.length()) {
+//                                found = true;
+//                                for (int a = 0; a < word.length(); a++) {
+//                                    soup[x + dir.getY() * a][y + dir.getX() * a] = Character.toString(word.charAt(a));
+//                                }
+//
+//
+//                            }
+//                            if (tries == size * size)
+//                                System.out.println("Oops, it wasn't possible to fit in the word: " + word);
+//                        }
+//                    }
+
+
+
+
